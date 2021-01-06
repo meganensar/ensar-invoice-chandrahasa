@@ -1,0 +1,28 @@
+.signup-link
+{
+	font-weight: 600;
+	color: #0070AC;
+	text-decoration: none;
+}
+.bg-img
+{
+	display: flex;
+	justify-content: flex-end;
+	margin-top: -412px;
+}
+
+
+
+.container-fluid{
+	margin-left: 80px;
+	max-width: 1140px;
+}
+
+
+.container
+{
+    max-width: 1140px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+}

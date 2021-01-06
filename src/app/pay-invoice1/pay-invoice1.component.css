@@ -1,0 +1,117 @@
+.sidebar
+{
+    height: 110vh;
+    background-color: #0070ac ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 5px 7px 25px #999;
+    margin-left: -40px;
+  
+}
+
+
+.bg {
+  background: linear-gradient(rgba(102, 102, 102,.4),rgba(102, 102, 102,.4));
+  padding: 10px; 
+    width: 210px;
+    height: 13vh;
+}
+
+   a{
+     text-decoration: none;
+   }
+
+.john{
+    
+    left: 100px;
+    position: absolute;
+    top: 110px;
+    color: var(--white);
+    font-size: 18px;
+  }
+
+.log-out{
+
+    left: 100px;
+    top: 135px;
+    color: var(--white);
+    position: absolute;
+    font-size: 18px;
+  }
+
+ 
+
+  .sidebar-link {
+
+    transition:all 0.4s;
+}
+.sidebar-link:hover {
+
+  background: linear-gradient(rgba(102, 102, 102,.4),rgba(102, 102, 102,.4));
+    border-radius: 5px;
+}
+
+/*end of Dashboard*/
+
+   .topbar {
+    color: var(--allports);
+    height: auto;
+    left: 230px;
+    line-height: 18px;
+    position: absolute;
+    text-align: left;
+    top: 15px;
+    white-space: nowrap;
+    width: auto;
+  } 
+  
+  .payments{
+    top: 140px;
+    left: 690px;
+    line-height: 18px;
+    position: absolute;
+    text-align: left;
+    width: auto;
+    height: auto;
+  }
+   .bg1{
+    background: linear-gradient(rgba(102, 102, 102,.1),rgba(102, 102, 102,.1));
+    width: 560px;
+    position: absolute;
+    height: 350px;
+  }
+  .bg2{
+    background: linear-gradient(rgba(255, 255, 255,.9),rgba(255, 255, 255,.9));
+    width: 150px;
+    position: absolute;
+    opacity: 1.0;
+    height: 100px;
+  }
+
+  .btn2 {
+    background-color: rgba(222,222,222,1.0);
+    color: black;
+    box-shadow: 1px 2px 5px #999999;
+    transition:all 0.4s;
+  }
+  
+  .btn2:hover {
+    
+    box-shadow: 2px 3px 15px #999999;
+      transform: translateY(-1px);
+  }
+  
+  .btn1 {
+    background-color:rgba(240,109,75,1.0);
+    margin-left: 10px ;
+    color: var(--white);
+    box-shadow: 1px 2px 5px #999999;
+    transition:all 0.4s;
+  }
+  
+  .btn1:hover {
+    
+    box-shadow: 2px 3px 15px #999999;
+      transform: translateY(-1px);
+  }
+  

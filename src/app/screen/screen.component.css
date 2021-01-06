@@ -1,0 +1,85 @@
+
+  .invoice-bg {
+   background: linear-gradient(rgba(255, 255, 255,.9),rgba(255, 255, 255,.9));
+    height: 800px;
+    left: 250px;
+    position: absolute;
+    top: 190px;
+    width: 960px;
+  }
+
+   .screen-bg {
+    background: linear-gradient(rgba(102, 102, 102,.1),rgba(102, 102, 102,.1));
+    height: 180%;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+  }
+
+  .group-1341-C61RwL {
+    background: linear-gradient(rgba(2,80,122,1.0),rgba(2,80,122,1.0));
+    
+    height: 100px;
+    left: 250px;
+    position: absolute;
+    top: 88px;
+    width: 960px;
+  }
+  .group-1220-sxfxgR {
+    background: transparent;
+    height:50px;
+    overflow: hidden;
+    position: absolute;
+    width: 108px;
+  }
+
+   .invoice {
+    background-color: transparent;
+    color: var(--shark);
+    font-size: 14px;
+    height: auto;
+    left: 268px;
+    line-height: 40px;
+    position: absolute;
+    text-align: left;
+    top: 200px;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .table-bg{
+    left: 0px;
+    background: linear-gradient(rgba(102, 102, 102,.1),rgba(102, 102, 102,.1));
+    height: 210px;
+    opacity: 0.6;
+    position: absolute;
+    width: 940px;
+  }
+
+  .td2{
+    color: var(--black-coral-pearl);
+    margin-left: 600px;
+    line-height: 30px;
+    white-space: nowrap;
+    width: 340px;
+   margin-top: 250px;
+  } 
+  .bg2{
+    background: linear-gradient(rgba(102, 102, 102,.1),rgba(102, 102, 102,.1));
+  }
+
+  .btn1 {
+    background-color:rgba(240,109,75,1.0);
+    margin-left: 10px ;
+    color: var(--white);
+    box-shadow: 1px 2px 5px #999999;
+    transition:all 0.4s;
+  }
+  
+  .btn1:hover {
+    
+    box-shadow: 2px 3px 15px #999999;
+      transform: translateY(-1px);
+  }
+  
